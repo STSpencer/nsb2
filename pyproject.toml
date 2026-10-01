@@ -144,7 +144,7 @@ unfixable = []
 convention = "numpy"
 
 [tool.ruff.lint.per-file-ignores]
-"docs/examples/*" = ["D", "E402", "I", "N", "T20"]
+"docs/examples/*" = ["D", "E402", "I", "N", "T20", "RUF001", "RUF003"]
 "nsb2/*/tests/*" = ["D101", "D102", "D103", "D401", "N803", "T201"]
 "nsb2/conftest.py" = ["D401"]
 "nsb2/instrument/CTAO.py" = ["N802", "N999"]

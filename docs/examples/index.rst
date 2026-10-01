@@ -14,3 +14,4 @@ background with different IACTs.
    Custom_Source_Tutorial
    NSB_Timeseries_Tutorial
    SST_Tutorial
+   max_observing_night_2027
