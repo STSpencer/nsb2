@@ -11,3 +11,4 @@ background with different IACTs.
    LST_Tutorial
    MST_Tutorial
    SST_Tutorial
+   AltAz_Sky_Brightness_Map
